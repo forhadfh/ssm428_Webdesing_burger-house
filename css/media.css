@@ -1,0 +1,94 @@
+@media(max-width: 1399px){
+    .burgerbanner {
+        top: 40px;
+        max-width: 600px;
+    }
+    .banner-content h1 {
+        font-size: 105px;
+    }
+    .offer div {
+        width: 150px;
+        height: 150px;
+    }
+    .offer {
+        bottom: 62px;
+    }
+    .events h2 {
+        font-size: 40px;
+    }
+    .events p {
+        font-size: 18px;
+    }
+
+}
+
+@media(max-width: 1199px){
+    .navbar-brand .img{
+        width: 200px;
+    }
+    .delivery-info img {
+        margin-right: 35px;
+    }
+    header {
+        padding-top: 30px;
+    }
+    .banner-content p {
+        font-size: 12.5px;
+    }
+    .banner-content h1 {
+        font-size: 75px;
+    }
+    .banner-content h2 {
+        font-size: 48.5px;
+    }
+    .burgerbanner {
+        max-width: 550px;
+    }
+    .offer {
+        bottom: 115px;
+    }
+    .offer div {
+        width: 115px;
+        height: 115px;
+    }
+    .offer h1 {
+        font-size: 50px;
+    }
+    .offer h1 b {
+        font-size: 27px;
+        letter-spacing: 7px;
+    }
+    .bundle-offer-box .bundle-text h2 {
+        font-size: 30px;
+    }
+    .bundle-offer-box .bundle-text h4 {
+        font-size: 20px;
+    }
+    .bundle-offer-box {
+        margin-bottom: 28px;
+    }
+    .product {
+        padding: 30px 15px;
+    }
+    .events h2 {
+        font-size: 30px;
+    }
+    .events p {
+        font-size: 16px;
+    }
+    .swiper-slide .p-5 {
+        padding: 2rem !important;
+    }
+
+}
+
+@media(max-width: 991px){
+    .delivery-info p {
+        font-size: 14px;
+    }
+    .delivery-info img {
+        margin-right: 30px;
+        width: 30px;
+    }
+
+}
